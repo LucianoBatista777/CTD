@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+ 
+body {
+    background-color: lightblue;
+}
+
+.media-picture {
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(20, 195, 201);
+}
+
+.review-score {
+    background-color: forestgreen;
+    font-size: large;
+}
+
+div {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ0CQrjOTiUVU_SJX8Y2P4Pclqi9Hjm2sHw&usqp=CAU");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+h2 {
+    background-color: lightgoldenrodyellow;
+}
